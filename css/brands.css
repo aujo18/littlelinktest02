@@ -1087,4 +1087,13 @@ button:hover,
 .button.button-zoom:focus {
   filter: brightness(90%);
 }
-
+/* Custom link */
+.button.button-custom-link {
+  color: #000000;
+  background-color: #f5f5f5;
+  border: 1px solid #212121;
+}
+.button.button-custom-link:hover,
+.button.button-custom-link:focus {
+  filter: brightness(90%);
+}
